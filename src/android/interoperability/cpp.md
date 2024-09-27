@@ -5,6 +5,6 @@ and C++.
 
 The overall approach looks like this:
 
-<img src="cpp/overview.svg">
+<img src="src/android/interoperability/cpp/overview.svg>
 
 [1]: https://cxx.rs/

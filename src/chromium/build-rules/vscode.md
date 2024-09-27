@@ -9,7 +9,7 @@ C++. Visual Studio code works well for Rust in Chromium. To use it,
   directory)
 - `ln -s out/Debug/rust-project.json rust-project.json`
 
-<img src="vscode.png" style="border: 1px solid black;" alt="Example screenshot from VSCode">
+<img src="src/chromium/build-rules/vscode.png" style="border: 1px solid black;" alt="Example screenshot from VSCode">
 
 <details>
 

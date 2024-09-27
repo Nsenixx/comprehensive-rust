@@ -16,9 +16,6 @@ fn main() {
 }
 ```
 
-You can use <kbd>Ctrl + Enter</kbd> to execute the code when focus is in the
-text box.
-
 <details>
 
 Most code samples are editable like shown above. A few code samples are not
