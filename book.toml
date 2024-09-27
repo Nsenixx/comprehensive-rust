@@ -29,26 +29,13 @@ granularity = 0
 
 [output.pandoc]
 optional = true
-disabled = true
+disabled = false
+epub-images = true
 hosted-html = "https://google.github.io/comprehensive-rust/"
 
-[output.pandoc.profile.pdf]
-output-file = "comprehensive-rust.pdf"
-pdf-engine = "lualatex"
+[output.pandoc.profile.epub]
+output-file = "comprehensive-rust.epub"
 
-[output.pandoc.profile.pdf.variables]
-mainfont = "Noto Serif"
-sansfont = "Noto Sans"
-monofont = "Noto Sans Mono"
-mainfontfallback = ["NotoColorEmoji:mode=harf"]
-monofontfallback = [
-  "NotoColorEmoji:mode=harf",
-  "NotoSansMath:",
-  "NotoSansMonoCJKSC:",
-]
-geometry = ["margin=1.25in"]
-linkcolor = "blue"
-urlcolor = "red"
 
 [output.html]
 smart-punctuation = true
