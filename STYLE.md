@@ -65,7 +65,7 @@ collapsed or removed entirely from the slide.
 Move extended explanations in the notes to a "More to Explore" section:
 
 ```markdown
-<details>
+<details open="true">
 
 ...
 
