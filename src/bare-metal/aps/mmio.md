@@ -5,7 +5,7 @@
 - `addr_of!` lets you get fields of structs without creating an intermediate
   reference.
 
-<details>
+<details open="true">
 
 - Volatile access: read or write operations may have side-effects, so prevent
   the compiler or hardware from reordering, duplicating or eliding them.

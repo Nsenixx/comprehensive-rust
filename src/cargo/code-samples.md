@@ -16,7 +16,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open="true">
 
 Most code samples are editable like shown above. A few code samples are not
 editable for various reasons:

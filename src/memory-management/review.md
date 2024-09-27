@@ -42,7 +42,7 @@ fn main() {
 `- - - - - - - - - - - - - -'     `- - - - - - - - - - - - - - - -'
 ```
 
-<details>
+<details open="true">
 
 - Mention that a `String` is backed by a `Vec`, so it has a capacity and length
   and can grow if mutable via reallocation on the heap.

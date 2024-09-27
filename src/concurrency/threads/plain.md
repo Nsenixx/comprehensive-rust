@@ -30,7 +30,7 @@ fn main() {
 - Thread panics are independent of each other.
   - Panics can carry a payload, which can be unpacked with `downcast_ref`.
 
-<details>
+<details open="true">
 
 - Rust thread APIs look not too different from e.g. C++ ones.
 
